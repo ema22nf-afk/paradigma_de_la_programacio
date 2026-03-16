@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MI_PRIMER_SERVIDOR.js",
+  "scripts": {
+    "start": "node MI_PRIMER_SERVIDOR.js",
+    "dev": "nodemon MI_PRIMER_SERVIDOR.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
